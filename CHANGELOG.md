@@ -1,3 +1,6 @@
+## 0.5.3
+* Add Swift Package Manager support (iOS); minimum iOS raised to 13.0
+
 ## 0.5.2
 * Upgraded gradle by @javaddehban
 
